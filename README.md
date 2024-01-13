@@ -1,4 +1,4 @@
-# Machine-Learning-Project-Classification
+# Machine-Learning-Classification-Project
 Le département des ressources humaines aspire à mettre en œuvre des initiatives visant à rehausser le niveau de satisfaction des employés au sein de l'entreprise. La problématique centrale est la suivante : quels sont les facteurs susceptibles de pousser un employé à quitter l'entreprise ?
 
 Dans le cadre de ce projet, je vais procéder à l'analyse des données recueillies par le département des ressources humaines. Mon objectif est de développer un modèle capable de prédire si un employé envisage de quitter l'entreprise, tout en identifiant les facteurs qui contribuent à cette décision. Étant donné le caractère onéreux et chronophage du processus de recherche, d'entrevue et de recrutement de nouveaux employés, l'amélioration du taux de rétention du personnel se présente comme un avantage significatif pour l'entreprise.
